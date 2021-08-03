@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name twyleg-board-connectors)(type KiCad)(uri ${KIPRJMOD}/libs/twyleg-kicad-library/lib/footprints/twyleg-board-connectors.pretty)(options "")(descr ""))
   (lib (name twyleg-misc)(type KiCad)(uri ${KIPRJMOD}/libs/twyleg-kicad-library/lib/footprints/twyleg-misc.pretty)(options "")(descr ""))
+  (lib (name twyleg-displays)(type KiCad)(uri ${KIPRJMOD}/libs/twyleg-kicad-library/lib/footprints/twyleg-displays.pretty)(options "")(descr ""))
 )
