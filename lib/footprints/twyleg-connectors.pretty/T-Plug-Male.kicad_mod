@@ -469,7 +469,7 @@
       ff4dabfb-8bf4-41a5-8386-b2d8b9172db1
     )
   )
-  (model "/home/twyleg/dev/workspace/kicad-workspace/piracer_evo/external/twyleg-kicad-library/lib/3d-models/stp/T-Plug-Male.step"
+  (model "/home/twyleg/dev/workspace/kicad-workspace/piracer_evo/external/twyleg_kicad_library/lib/3d-models/stp/T-Plug-Male.step"
     (offset (xyz 0 0 6))
     (scale (xyz 1 1 1))
     (rotate (xyz 180 0 0))

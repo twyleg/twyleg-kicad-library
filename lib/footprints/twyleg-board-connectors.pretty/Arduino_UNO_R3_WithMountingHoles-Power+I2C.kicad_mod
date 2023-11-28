@@ -43,32 +43,32 @@
   (pad "4" thru_hole circle (at 10.16 -58.42 90) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp e81f9bd3-607e-4db7-aa27-cb16fc29baeb))
   (pad "5" thru_hole circle (at 12.7 -55.88 90) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 267c2735-6eb5-451d-bec8-600e893792db))
   (pad "6" thru_hole circle (at 12.7 -58.42 90) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 3beb3476-26ca-4b77-a7ec-662272974fdc))
-  (model "${KIPRJMOD}/libs/twyleg-kicad-library/lib/3d-models/stp/Arduino-UNO-R3.step"
+  (model "${KIPRJMOD}/libs/twyleg_kicad_library/lib/3d-models/stp/Arduino-UNO-R3.step"
     (offset (xyz 0 53.5 11.8))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
   )
-  (model "${KIPRJMOD}/libs/twyleg-kicad-library/lib/3d-models/stp/hex-spacer-m3x10-with-screws.step"
+  (model "${KIPRJMOD}/libs/twyleg_kicad_library/lib/3d-models/stp/hex-spacer-m3x10-with-screws.step"
     (offset (xyz 2.5 18 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KIPRJMOD}/libs/twyleg-kicad-library/lib/3d-models/stp/hex-spacer-m3x10-with-screws.step"
+  (model "${KIPRJMOD}/libs/twyleg_kicad_library/lib/3d-models/stp/hex-spacer-m3x10-with-screws.step"
     (offset (xyz 2.5 46 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KIPRJMOD}/libs/twyleg-kicad-library/lib/3d-models/stp/hex-spacer-m3x10-with-screws.step"
+  (model "${KIPRJMOD}/libs/twyleg_kicad_library/lib/3d-models/stp/hex-spacer-m3x10-with-screws.step"
     (offset (xyz 53.5 3 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KIPRJMOD}/libs/twyleg-kicad-library/lib/3d-models/stp/hex-spacer-m3x10-with-screws.step"
+  (model "${KIPRJMOD}/libs/twyleg_kicad_library/lib/3d-models/stp/hex-spacer-m3x10-with-screws.step"
     (offset (xyz 54.5 51 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x03_P2.54mm_Vertical.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x03_P2.54mm_Vertical.wrl"
     (offset (xyz 7.6 55.9 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

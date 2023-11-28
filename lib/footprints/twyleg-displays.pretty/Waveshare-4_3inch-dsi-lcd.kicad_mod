@@ -164,27 +164,27 @@
   (pad "" thru_hole circle (at 49.65 -30.9) (size 6 6) (drill 3) (layers *.Cu *.Mask) (tstamp b9900303-8547-4961-b072-892bdeb92c09))
   (pad "" thru_hole circle (at -49.65 30.9) (size 6 6) (drill 3) (layers *.Cu *.Mask) (tstamp f365844a-8254-4374-904a-48381e13c03b))
   (pad "" thru_hole circle (at -30.62 24.54) (size 6 6) (drill 3) (layers *.Cu *.Mask) (tstamp fca66519-ee88-4ce6-ad48-d2eff49d93c3))
-  (model "${KIPRJMOD}/libs/twyleg-kicad-library/lib/3d-models/stp/waveshare-4_3inch-dsi-lcd.stp"
+  (model "${KIPRJMOD}/libs/twyleg_kicad_library/lib/3d-models/stp/waveshare-4_3inch-dsi-lcd.stp"
     (offset (xyz 0 0 4))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KIPRJMOD}/libs/twyleg-kicad-library/lib/3d-models/stp/skrew-m3x5.step"
+  (model "${KIPRJMOD}/libs/twyleg_kicad_library/lib/3d-models/stp/skrew-m3x5.step"
     (offset (xyz 49.5 30.75 -1.6))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 180 0))
   )
-  (model "${KIPRJMOD}/libs/twyleg-kicad-library/lib/3d-models/stp/skrew-m3x5.step"
+  (model "${KIPRJMOD}/libs/twyleg_kicad_library/lib/3d-models/stp/skrew-m3x5.step"
     (offset (xyz -49.75 30.75 -1.6))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 180 0))
   )
-  (model "${KIPRJMOD}/libs/twyleg-kicad-library/lib/3d-models/stp/skrew-m3x5.step"
+  (model "${KIPRJMOD}/libs/twyleg_kicad_library/lib/3d-models/stp/skrew-m3x5.step"
     (offset (xyz -49.75 -30.75 -1.6))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 180 0))
   )
-  (model "${KIPRJMOD}/libs/twyleg-kicad-library/lib/3d-models/stp/skrew-m3x5.step"
+  (model "${KIPRJMOD}/libs/twyleg_kicad_library/lib/3d-models/stp/skrew-m3x5.step"
     (offset (xyz 49.5 -31 -1.6))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 180 0))

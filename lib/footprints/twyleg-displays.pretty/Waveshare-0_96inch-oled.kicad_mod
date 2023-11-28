@@ -23,37 +23,37 @@
   (pad "6" thru_hole circle (at 20.32 -30.96 90) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp a7eec49e-d12f-422b-9c7f-c0ce10e92fcd))
   (pad "7" thru_hole circle (at 22.86 -30.96 90) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 1bd9ddfb-364a-4bf2-a412-8694aab56cb1))
   (pad "8" thru_hole circle (at 25.4 -30.96 90) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 57983ca6-fa68-4fd3-8c6e-b315abb99cfe))
-  (model "${KIPRJMOD}/libs/twyleg-kicad-library/lib/3d-models/stp/waveshare-0_96inch-oled.step"
+  (model "${KIPRJMOD}/libs/twyleg_kicad_library/lib/3d-models/stp/waveshare-0_96inch-oled.step"
     (offset (xyz 0 0 10))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KIPRJMOD}/libs/twyleg-kicad-library/lib/3d-models/stp/hex-spacer-m3x10-with-screws.step"
+  (model "${KIPRJMOD}/libs/twyleg_kicad_library/lib/3d-models/stp/hex-spacer-m3x10-with-screws.step"
     (offset (xyz 2.5 2.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KIPRJMOD}/libs/twyleg-kicad-library/lib/3d-models/stp/hex-spacer-m3x10-with-screws.step"
+  (model "${KIPRJMOD}/libs/twyleg_kicad_library/lib/3d-models/stp/hex-spacer-m3x10-with-screws.step"
     (offset (xyz 30.5 2.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KIPRJMOD}/libs/twyleg-kicad-library/lib/3d-models/stp/hex-spacer-m3x10-with-screws.step"
+  (model "${KIPRJMOD}/libs/twyleg_kicad_library/lib/3d-models/stp/hex-spacer-m3x10-with-screws.step"
     (offset (xyz 30.5 31 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KIPRJMOD}/libs/twyleg-kicad-library/lib/3d-models/stp/hex-spacer-m3x10-with-screws.step"
+  (model "${KIPRJMOD}/libs/twyleg_kicad_library/lib/3d-models/stp/hex-spacer-m3x10-with-screws.step"
     (offset (xyz 2.5 31 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.wrl"
     (offset (xyz 7.65 31 10))
     (scale (xyz 1 1 1))
     (rotate (xyz 180 0 90))
   )
-  (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x08_P2.54mm_Vertical.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x08_P2.54mm_Vertical.wrl"
     (offset (xyz 7.65 31 0.25))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

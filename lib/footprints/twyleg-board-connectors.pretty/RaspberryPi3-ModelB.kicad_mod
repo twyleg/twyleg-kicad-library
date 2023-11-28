@@ -3297,32 +3297,32 @@
   (pad "38" thru_hole circle (at 54.09 -60.54 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 1d6a9fb4-3954-47a5-a81b-96fdaf7bc20b))
   (pad "39" thru_hole circle (at 56.63 -58 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 5009742e-0e5e-4b99-829b-da6dc2c390b8))
   (pad "40" thru_hole circle (at 56.63 -60.54 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 6a590333-ae14-4dd8-b5be-f9123392c622))
-  (model "${KIPRJMOD}/libs/twyleg-kicad-library/lib/3d-models/stp/hex-spacer-m3x10-with-screws.step"
+  (model "${KIPRJMOD}/libs/twyleg_kicad_library/lib/3d-models/stp/hex-spacer-m3x10-with-screws.step"
     (offset (xyz 3.5 52.7 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KIPRJMOD}/libs/twyleg-kicad-library/lib/3d-models/stp/hex-spacer-m3x10-with-screws.step"
+  (model "${KIPRJMOD}/libs/twyleg_kicad_library/lib/3d-models/stp/hex-spacer-m3x10-with-screws.step"
     (offset (xyz 61.5 52.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KIPRJMOD}/libs/twyleg-kicad-library/lib/3d-models/stp/hex-spacer-m3x10-with-screws.step"
+  (model "${KIPRJMOD}/libs/twyleg_kicad_library/lib/3d-models/stp/hex-spacer-m3x10-with-screws.step"
     (offset (xyz 61.5 3.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KIPRJMOD}/libs/twyleg-kicad-library/lib/3d-models/stp/RaspberryPi3-ModelB.stp"
+  (model "${KIPRJMOD}/libs/twyleg_kicad_library/lib/3d-models/stp/RaspberryPi3-ModelB.stp"
     (offset (xyz 48.5 25.5 10.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x20_P2.54mm_Vertical.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x20_P2.54mm_Vertical.wrl"
     (offset (xyz 8.4 58 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))
   )
-  (model "${KIPRJMOD}/libs/twyleg-kicad-library/lib/3d-models/stp/hex-spacer-m3x10-with-screws.step"
+  (model "${KIPRJMOD}/libs/twyleg_kicad_library/lib/3d-models/stp/hex-spacer-m3x10-with-screws.step"
     (offset (xyz 3.5 3.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
